@@ -43,6 +43,7 @@ Anyone can add an entry to the table, and entries should include the:
     | 10.0           | 50               | 250           | Quad | No                     | Disnator      | [Link](https://youtu.be/p6USo0VsLag)                |
     | 7.1            | 500              | 100           | Wing | No                     | Bri'ish       | [Link](https://youtu.be/FsQiL0LYnaY)                |
     | 7.0            | 150              | 50            | Quad | No                     | Taufik        | [Link](https://youtu.be/bUlUGCup48I)                |
+    | 6.0            | 150              | 1000          | Quad | No                     | MarcusLeung   | [Link](https://youtu.be/RX_uZ5xxdAU)                |  
     | 5.0            | 250              | 500           | Quad | No                     | ZoFPV         | [Link](https://youtu.be/JyNvywwi90s)                |
     | 4.6            | 50               | 25            | Quad | No                     | febbyeka      | [Link](https://youtu.be/jtiu6GdsKhA)                |
     | 3.0            | 150              | 25            | Quad | No                     | Taufik        | [Link](https://youtu.be/vG_hxHndXdI)                |
@@ -54,6 +55,7 @@ Anyone can add an entry to the table, and entries should include the:
     | 40.7           | 50               | 10            | Wing | No                     | Leslie Yagin  | [Link](https://youtu.be/HRqTklpWDIM) |
     | 13.1           | 50               | 100           | Quad | No                     | Taufik        | [Link](https://youtu.be/Thrz9QuZGWE) |
     | 10.0           | 100              | 100           | Wing | No                     | Flight Cub    | [Link](https://youtu.be/fg4MxRdKryU) |
+    | 6.0            | 150              | 1000          | Quad | No                     | MarcusLeung   | [Link](https://youtu.be/RX_uZ5xxdAU) |
     | 6.0            | 100              | 50            | Wing | No                     | Snipes        | [Link](https://youtu.be/kN89mINbmQc) |
     | 5.0            | 200              | 50            | Quad | No                     | S0L4R         | [Link](https://youtu.be/g68G75L6wvY) |
     | 2.2            | 50               | 10            | Quad | No                     | Mike Malagoli | [Link](https://youtu.be/qi4OygUAZxA) |
